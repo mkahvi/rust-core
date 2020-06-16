@@ -1,0 +1,15 @@
+[package]
+name = "mkah-traits"
+version = "0.1.0"
+authors = ["M.A. <https://github.com/mkahvi>"]
+edition = "2018"
+description = "Basic traits."
+# homepage = ""
+repository = "https://github.com/mkahvi/rust-utility"
+license = "MIT"
+publish = false
+#doc = 
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
