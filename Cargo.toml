@@ -1,13 +1,13 @@
-[package]
-name = "mkah-core"
-version = "0.1.0"
-authors = ["M.A. <https://github.com/mkahvi>"]
-edition = "2018"
+#[package]
+#name = "mkah-core"
+#version = "0.1.0"
+#authors = ["M.A. <https://github.com/mkahvi>"]
+#edition = "2018"
 # description = ""
 # homepage = ""
-repository = "https://github.com/mkahvi/rust-utility/core"
-license = "MIT"
-publish = false
+#repository = "https://github.com/mkahvi/rust-core"
+#license = "MIT"
+#publish = false
 #doc = 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -17,4 +17,4 @@ members = [
 	"traits",
 ]
 
-[dependencies]
+#[dependencies]
